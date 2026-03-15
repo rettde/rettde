@@ -1,4 +1,4 @@
-# Markus Rettstatt
+# Markus
 
 I design open, safety-aware software foundations for software-defined vehicles.
 
