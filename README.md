@@ -1,16 +1,76 @@
-## Hi there 👋
+# Markus Rettstatt
 
-<!--
-**rettde/rettde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design open, safety-aware software foundations for software-defined vehicles.
 
-Here are some ideas to get you started:
+This space is about **vehicle software that scales**:
+across legacy ECUs, mixed fleets, and long product lifecycles — without locking innovation into proprietary tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+- Open vehicle diagnostics & control (SOVD-first)
+- Flashing & lifecycle tooling beyond ODX / OTX
+- SDV platform architecture (OEM, EV, Robotaxi scale)
+- Open-core strategies for safety-critical domains
+- System-level design at the hardware / software boundary
+
+I focus on **architecture, interfaces, and decision clarity** — not features.
+
+---
+
+## Flagship work
+
+- **OpenSOVD Flash Client**  
+  A modern, diagnostic-first alternative to traditional ECU flashing stacks.  
+  Built for extensibility, mixed ECU landscapes, and open integration.
+
+- **SDV Architecture References**  
+  C4 models, patterns, and decision records for vehicle software platforms:
+  diagnostics, flashing, lifecycle control, and fleet-scale operations.
+
+- **Tooling Experiments**  
+  Explorations around WinSurf-based clients, DevFlash integration,
+  and composable UI concepts for vehicle context and state awareness.
+
+---
+
+## Why this exists
+
+Most vehicle tooling today is:
+- proprietary
+- hard to evolve
+- tightly coupled to legacy processes
+
+That slows down software-defined vehicles.
+
+This profile explores **how open, composable systems can replace that** —
+without breaking safety, compliance, or operational reality.
+
+---
+
+## Design principles
+
+- Open by default
+- Explicit interfaces over hidden flows
+- Architecture before implementation
+- Legacy-aware, not legacy-bound
+- Scale is a system property, not a feature
+
+---
+
+## What you will find here
+
+- Reference architectures and diagrams
+- Focused repositories with clear scope
+- Experiments marked as experiments
+- Opinions backed by system experience
+
+What you will not find:
+marketing, buzzwords, or generic samples.
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/markus-rettstatt
