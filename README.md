@@ -29,10 +29,6 @@ I focus on **architecture, interfaces, and decision clarity** — not features.
   C4 models, patterns, and decision records for vehicle software platforms:
   diagnostics, flashing, lifecycle control, and fleet-scale operations.
 
-- **Tooling Experiments**  
-  Explorations around WinSurf-based clients, DevFlash integration,
-  and composable UI concepts for vehicle context and state awareness.
-
 ---
 
 ## Why this exists
