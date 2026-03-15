@@ -1,5 +1,3 @@
-# Markus
-
 I design open, safety-aware software foundations for software-defined vehicles.
 
 This space is about **vehicle software that scales**:
