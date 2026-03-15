@@ -9,7 +9,7 @@ across legacy ECUs, mixed fleets, and long product lifecycles — without lockin
 
 - Open vehicle diagnostics & control (SOVD-first)
 - Flashing & lifecycle tooling beyond ODX / OTX
-- SDV platform architecture (OEM, EV, Robotaxi scale)
+- SDV platform architecture (OEM, EV scale)
 - Open-core strategies for safety-critical domains
 - System-level design at the hardware / software boundary
 
